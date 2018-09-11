@@ -33,3 +33,16 @@
 # en schrijf een programma dat een nieuwe lijst maakt (en print) met het aantal voorkomens van de letters in alfabetische volgorde.
 # Tuple letters bevat 2 keer ‘A’, 3 keer ‘B’ en 4 keer ‘C’.
 # De lijst die dit programma maakt (en print) is dan: [2, 3, 4].
+# from collections import Counter
+
+
+# letters = ('a','f','b','a','f','c','d','c','e','a','e',)
+# print(list(Counter(sorted(letters)).values()))
+# print(list(Counter(sorted(letters)).values()))
+
+tupleShadow = ['A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B', 'D']
+sortedValues = []
+[sortedValues.append(value) for key,
+    value in sorted([[x, tupleShadow.count(x)]
+    for x in set(tupleShadow)])]
+print(sortedValues)
