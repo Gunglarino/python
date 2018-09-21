@@ -1,10 +1,9 @@
-icor = 6
-prog = 8
-csn = 10
+cijferICOR = 6
+cijferPROG  = 7
+cijferCSN = 8
 
-tot = sum([icor, prog, csn])
-avg = tot / 3
-rew = tot * 30
-
-print("Je gemiddelde is een: "+str(avg))
-print("Als beloning voor je cijfers krijg je: €"+ str(rew))
+totaal = sum([cijferICOR, cijferPROG , cijferCSN])
+gemiddelde = totaal / 3
+beloning = totaal * 30
+overzicht = "Je gemiddelde is een: "+str(gemiddelde) + "\n" + "Als beloning voor je cijfers krijg je: €"+ str(beloning)
+print(overzicht)
