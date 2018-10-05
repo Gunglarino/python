@@ -1,3 +1,12 @@
+# check if locker exist if not create it
+try:
+    fh = open('locker.txt', 'r')
+    print("EXIST")
+except FileNotFoundError:
+    print("doesnt exist")
+    firstInit = open('locker.txt', 'w')
+    firstInit.close()
+
 # Checks if there are free lockers and returns a list of free lockers
 def listFreeLockers():
     lockerFile = open('locker.txt', 'r+')
