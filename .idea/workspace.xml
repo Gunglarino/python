@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$8_4.coverage" NAME="8.4 Coverage Results" MODIFIED="1539344399170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_ControlStructuresDictionaries" />
     <SUITE FILE_PATH="coverage/python$9_2.coverage" NAME="9.2 Coverage Results" MODIFIED="1539343319229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_ContainersSetsAndChars" />
     <SUITE FILE_PATH="coverage/python$5_7__1_.coverage" NAME="5.7 (1) Coverage Results" MODIFIED="1538645645707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_Functions" />
     <SUITE FILE_PATH="coverage/python$5_4.coverage" NAME="5.4 Coverage Results" MODIFIED="1538146071911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -21,7 +22,7 @@
     <SUITE FILE_PATH="coverage/python$7_4.coverage" NAME="7.4 Coverage Results" MODIFIED="1538659007851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_ExecutionControlStructures" />
     <SUITE FILE_PATH="coverage/python$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1537527353499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$7_2.coverage" NAME="7.2 Coverage Results" MODIFIED="1538657151475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_ExecutionControlStructures" />
-    <SUITE FILE_PATH="coverage/python$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1539344082329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_ContainersSetsAndChars" />
+    <SUITE FILE_PATH="coverage/python$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1539344396257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_ContainersSetsAndChars" />
     <SUITE FILE_PATH="coverage/python$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1538145509864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1538646363445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_StringsTextDataAndFileIO" />
     <SUITE FILE_PATH="coverage/python$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1538143813776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -59,26 +60,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="7984" />
+          <entry key="py" value="8000" />
           <entry key="txt" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="121" />
-          <entry key="Python" value="7984" />
+          <entry key="Python" value="8000" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="41" />
-          <entry key="txt" value="22" />
+          <entry key="py" value="50" />
+          <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="41" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
     </session>
@@ -128,55 +129,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.3.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.4.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.5.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.1.py">
+        <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.2.py">
+        <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" selection-end-line="5" selection-end-column="54" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -185,7 +157,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.5FinalAssignment.py">
+        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -244,13 +257,14 @@
         <option value="$PROJECT_DIR$/7_ExecutionControlStructures/lockers.txt" />
         <option value="$PROJECT_DIR$/7_ExecutionControlStructures/locker.txt" />
         <option value="$PROJECT_DIR$/7_ExecutionControlStructures/7.6FinalAssignment.py" />
+        <option value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.5.py" />
+        <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.4.py" />
+        <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.5FinalAssignment.py" />
+        <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/beurs.txt" />
         <option value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.1.py" />
         <option value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.2.py" />
         <option value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.3.py" />
         <option value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.4.py" />
-        <option value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.5.py" />
-        <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.4.py" />
-        <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.5FinalAssignment.py" />
         <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.1.py" />
         <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.2.py" />
         <option value="$PROJECT_DIR$/9_ContainersSetsAndChars/9.3.py" />
@@ -285,6 +299,16 @@
             <path>
               <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="6_StringsTextDataAndFileIO" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="8_ControlStructuresDictionaries" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="9_ContainersSetsAndChars" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
@@ -310,11 +334,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\Documents\GitHub\python\8_ControlStructuresDictionaries" />
       <recent name="C:\Users\Thomas\Documents\GitHub\python" />
       <recent name="C:\Users\Thomas\Documents\GitHub\python\chapter_5" />
       <recent name="C:\Users\Thomas\Documents\GitHub\python\chapter_4" />
       <recent name="C:\Users\Thomas\Documents\GitHub\python\chapter_3" />
-      <recent name="C:\Users\Thomas\Documents\GitHub\python\firstWeekAssignments" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -329,29 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9.3">
-    <configuration name="7.5FinalAssignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_ExecutionControlStructures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_ExecutionControlStructures/7.5FinalAssignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.8.4">
     <configuration name="7.6FinalAssignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -366,6 +368,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_ExecutionControlStructures/7.6FinalAssignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_ControlStructuresDictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_ControlStructuresDictionaries/8.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,19 +465,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.7.5FinalAssignment" />
       <item itemvalue="Python.7.6FinalAssignment" />
       <item itemvalue="Python.9.1" />
       <item itemvalue="Python.9.2" />
       <item itemvalue="Python.9.3" />
+      <item itemvalue="Python.8.4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8.4" />
         <item itemvalue="Python.9.3" />
         <item itemvalue="Python.9.2" />
         <item itemvalue="Python.9.1" />
         <item itemvalue="Python.7.6FinalAssignment" />
-        <item itemvalue="Python.7.5FinalAssignment" />
       </list>
     </recent_temporary>
   </component>
@@ -490,12 +514,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20575693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20575693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -751,20 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -775,13 +785,6 @@
     <entry file="file://$PROJECT_DIR$/7_ExecutionControlStructures/locker.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_ExecutionControlStructures/7.6FinalAssignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -789,47 +792,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.5.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.4.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.5FinalAssignment.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.2.py">
+    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/beurs.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="39" selection-end-line="5" selection-end-column="54" />
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.3.py">
+    <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_StringsTextDataAndFileIO/6.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_ControlStructuresDictionaries/8.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_ContainersSetsAndChars/9.3.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
