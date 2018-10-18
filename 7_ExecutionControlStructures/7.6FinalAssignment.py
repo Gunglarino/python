@@ -27,7 +27,7 @@ def listFreeLockers():
     return lockerList
 
 # OPTION 1 prints out free lockers
-def checkFree():
+def toon_aantal_kluizen_vrij():
     lockerList = listFreeLockers()
     string = ', '.join(lockerList)
     if len(lockerList) == 0:
@@ -39,7 +39,7 @@ def checkFree():
         menu()
 
 # OPTION 2 gives user a locker with password
-def newLocker():
+def nieuwe_kluis():
     lockerFile = open('locker.txt', 'a')
     lockerList = listFreeLockers()
 
@@ -64,7 +64,7 @@ def newLocker():
     menu()
 
 # OPTION 3 opens the locker for the user
-def openLocker():
+def kluis_openen():
     lockerFile = open('locker.txt', 'r+')
     kluisnummer = input("wat is uw kluisnummer: ")
     wachtwoord = input("wat is uw wachtwoord: ")
@@ -84,7 +84,7 @@ def openLocker():
     lockerFile.close()
 
 # OPTION 4 free the locket from user
-def deleteLocker():
+def kluis_teruggeven():
     lockerFile = open('locker.txt', 'r+')
     kluisnummer = input("wat is uw kluisnummer: ")
     wachtwoord = input("wat is uw wachtwoord: ")
@@ -111,13 +111,13 @@ def menu():
 # Option selector
 def cycle(menuOptie):
     if menuOptie == "1":
-        checkFree()
+        toon_aantal_kluizen_vrij()
     elif menuOptie == "2":
-        newLocker()
+        nieuwe_kluis()
     elif menuOptie == "3":
-        openLocker()
+        kluis_openen()
     elif menuOptie == "4":
-        deleteLocker()
+        kluis_teruggeven()
     else:
         print("ongeldige invoer, probeer 1,2,3,4 als invoer: ")
         menu()
